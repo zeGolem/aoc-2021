@@ -1,4 +1,9 @@
-// g++ part1.cpp -std=c++20 -Wall -Wextra -pedantic -o part1
+/*
+ * $ g++ part1.cpp -std=c++20 -Wall -Wextra -pedantic -o part1
+ * $ ./part1 < example1.txt
+ * [...]
+ * Increased 7 times
+ */
 
 #include <iostream>
 
